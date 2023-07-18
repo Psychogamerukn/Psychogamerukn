@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Psychogamerukn
 - 👀 I’m interested in gameing, game dev and coding
-- 🌱 I’m currently learning c# and gdscript
-- 💞️ I’m looking to collaborate on game dev projects using godot
+- 🌱 I’m currently learning html and css
 - 📫 How to reach me Discord at Psychogamerukn#9052
 
 <!---
